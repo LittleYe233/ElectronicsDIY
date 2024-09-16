@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Ai-WB2-01S_Module.PrjPcb
+[Project2]
+ProjectPath=OY472KE\UL_Import_OY472KE.PrjScr
+[Project3]
+ProjectPath=OY472KE\OY472KE.LibPkg

@@ -1,0 +1,22 @@
+Importer Log Report
+Project : Ai-WB2-01S推荐封装.PrjPcb
+
+Section : Document - C:\Users\ralph\AltiumDesigner\Ai-WB2-01S_Module\Ai-WB2-01S\Ai-WB2-01S推荐封装.asc
+
+    Section : Import Messages
+        Error   : Unsupported characters found in text string: 2.54mm排母2x4pin at: (-539.37mil; 322.835mil)
+    EndSection
+EndSection
+
+Section : Document - C:\Users\ralph\AltiumDesigner\Ai-WB2-01S_Module\Ai-WB2-01S\Ai-WB2-01S推荐封装.txt
+    Section : Load Messages
+        Error   : Error, expected keyword: 'ASSOCIATED_NET' in line: 511
+        Error   : Error, expected keyword: 'DATA' in line: 511
+        Error   : Layer information out of range for ruleset :(2) in line: 589
+        Error   : Layer information out of range for ruleset :(2) in line: 590
+        Warning : Optional alphanumeric pin map is missing for part type MODULE_ATK_AI-WB2-01S_PART.  Default pin numbers are assigned.
+    EndSection
+
+    Section : Import Messages
+    EndSection
+EndSection
