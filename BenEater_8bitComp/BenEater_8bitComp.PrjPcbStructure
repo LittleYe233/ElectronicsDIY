@@ -1,4 +1,6 @@
 ﻿Record=TopLevelDocument|FileName=ALU.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=ALU.SchDoc|FileName=Clock.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ALU.SchDoc|FileName=RAM.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=ALU.SchDoc|FileName=RegisterA.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=ALU.SchDoc|FileName=RegisterB.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ALU.SchDoc|FileName=RegisterMemAddr.SchDoc|SheetNumber=5
